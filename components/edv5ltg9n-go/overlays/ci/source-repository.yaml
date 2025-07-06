@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: edv5ltg9n-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/edv5ltg9n-go
